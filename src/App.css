@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.caja {
+  font-size: 40px;
+  background-color: #101010;
+  color: white;
+  line-height: 60px;
+}
+
+.caja div {
+  padding: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
